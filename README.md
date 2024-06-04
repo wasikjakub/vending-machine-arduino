@@ -8,17 +8,20 @@ The vending machine simulation allows users to:
 - Insert coins to increase their balance.
 - Select between two products: a beverage or a snack.
 - Purchase a selected product if the balance is sufficient.
+- Display the remaining stock of each product.
+- Show an "Out Of Stock!" message if a selected product is unavailable.
+- Show a "Please insert correct amount" message if the balance is insufficient.
 
-The project utilizes four buttons: one for confirming the purchase, one for simulating coin insertion, and two for selecting the products. The buttons are connected to the digital pins of the Arduino using pull-up resistors. The LCD display shows the current balance and the selected product. The buzzer provides audio feedback during the dispensing process.
+The project utilizes four buttons: one for confirming the purchase, one for simulating coin insertion, and two for selecting the products. The buttons are connected to the digital pins of the Arduino using pull-up resistors. The LCD display shows the current balance, the selected product, and the remaining stock of each product. The buzzer provides audio feedback during the dispensing process.
 
 ### Hardware Components
 
 - **Arduino Uno**
-- **LCD 16x2 Display**
+- **LCD 20x4 Display**
 - **4 Push Buttons**
 - **Buzzer**
 - **Resistors**
 
 ### Watch the Simulation
 
-You can watch the project in action in this [YouTube video](https://www.youtube.com/watch?v=ihj2WGrsxV0).
+You can watch the project in action in this [YouTube video](https://www.youtube.com/watch?v=QCqe8vEXE7w).
