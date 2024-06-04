@@ -21,4 +21,4 @@ The project utilizes four buttons: one for confirming the purchase, one for simu
 
 ### Watch the Simulation
 
-You can watch the project in action in this [YouTube video](https://www.youtube.com/watch?v=QCqe8vEXE7w).
+You can watch the project in action in this [YouTube video](https://www.youtube.com/watch?v=ihj2WGrsxV0).
