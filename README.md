@@ -25,3 +25,7 @@ The project utilizes four buttons: one for confirming the purchase, one for simu
 ### Watch the Simulation
 
 You can watch the project in action in this [YouTube video](https://www.youtube.com/watch?v=QCqe8vEXE7w).
+
+## Project preview
+
+![image](https://github.com/wasikjakub/vending-machine-arduino/assets/144064944/11dd6d2a-5151-4d00-a4e2-b9b109f00b78)
